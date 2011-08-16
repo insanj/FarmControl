@@ -1,0 +1,5 @@
+name: FarmControl
+version: 1.0
+author: insanj
+main: me.insanj.FarmControl.FarmControl
+description: Limits the growth of certain plants, as determined by the generated config file, along with a ton of other cool farm-related stuff.
